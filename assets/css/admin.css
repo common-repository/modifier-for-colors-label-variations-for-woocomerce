@@ -1,0 +1,38 @@
+#mclv_value {
+    width: 70px;
+}
+
+#term-value[data-type=colorpicker],
+#term-value[data-type=two_colorpicker],
+#term-value[data-type=two_colorpicker_in_circular],
+#term-value + .wp-picker-clear,
+#term-value_button {
+    width: 80px;
+}
+
+.wp-picker-container .wp-color-result.button{
+    float: left;
+}
+
+.mclv-color,
+.mclv-label {
+    border: 1px solid #ccc;
+    background: #fff;
+    display: inline-block;
+    min-width: 20px;
+    height: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    padding: 2px;
+}
+
+.mclv-round {
+    border-radius: 20px;
+}
+.mclv-round-img{
+    border-radius: 10px;
+}
+.mclv-image {
+    width: 50px;
+}

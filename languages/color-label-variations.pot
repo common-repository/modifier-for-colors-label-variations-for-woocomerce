@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+
+#: ../mclv-admin.php:209
+msgid "Value"
+msgstr ""
+
+#: ../mclv-admin.php:308
+msgid "Select terms"
+msgstr ""
+
+#: ../mclv-admin.php:318
+msgid "Select all"
+msgstr ""
+
+#: ../mclv-admin.php:319
+msgid "Select none"
+msgstr ""
+
+#: ../mclv-admin.php:320
+msgid "Add new"
+msgstr ""
+
+#: ../mclv-admin.php:391
+msgctxt "plugin name in admin page title"
+msgid "Color and Label Variations"
+msgstr ""
+
+#: ../mclv-admin.php:392
+msgctxt "plugin name in admin WP menu"
+msgid "Color and Label Variations"
+msgstr ""
+
+#: ../mclv-frontend.php:151
+msgid "Add to cart"
+msgstr ""
+
+#: ../functions.php:39
+msgid  "Colorpicker"
+msgstr ""
+
+#: ../functions.php:40
+msgid  "Colorpicker in circular"
+msgstr ""
+
+#: ../functions.php:41
+msgid  "Description after colorpicker"
+msgstr ""
+
+#: ../functions.php:42
+msgid  "Tooltip above colorpicker"
+msgstr ""
+
+#: ../functions.php:43
+msgid  "Two colorpicker"
+msgstr ""
+
+#: ../functions.php:44
+msgid  "Two colorpicker in circular"
+msgstr ""
+
+#: ../functions.php:45
+msgid  "Description after two colorpicker"
+msgstr ""
+
+#: ../functions.php:46
+msgid  "Tooltip above two colorpicker"
+msgstr ""
+
+#: ../functions.php:47
+msgid  "Image"
+msgstr ""
+
+#: ../functions.php:48
+msgid  "Image in circular"
+msgstr ""
+
+#: ../functions.php:49
+msgid  "Tooltip above image"
+msgstr ""
+
+#: ../functions.php:50
+msgid  "Description after image"
+msgstr ""
+
+#: ../functions.php:51
+msgid  "Label"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/variable.php:36
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/variable.php:54
+msgid "Choose an option"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/variable.php:100
+msgid "Clear selection"
+msgstr ""
